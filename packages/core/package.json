@@ -1,6 +1,6 @@
 {
   "name": "@kip-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "linqi <857714244@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Run core\""
   },
   "dependencies": {
-    "@kip-cli-dev/utils": "^1.0.0"
+    "@kip-cli-dev/utils": "^1.0.1"
   },
   "gitHead": "51ecf5bee77f2e58a7b6582e3fc1fe358cc42644",
   "publishConfig": {
