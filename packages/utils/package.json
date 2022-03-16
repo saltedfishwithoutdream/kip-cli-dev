@@ -1,6 +1,6 @@
 {
   "name": "@kip-cli-dev/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "linqi <857714244@qq.com>",
   "homepage": "",
@@ -15,6 +15,5 @@
   ],
   "scripts": {
     "test": "echo \"Run utils\""
-  },
-  "dependencies": {}
+  }
 }
