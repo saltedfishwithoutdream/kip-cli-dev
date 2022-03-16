@@ -22,5 +22,8 @@
   "dependencies": {
     "@kip-cli-dev/utils": "^1.0.2"
   },
-  "gitHead": "51ecf5bee77f2e58a7b6582e3fc1fe358cc42644"
+  "gitHead": "51ecf5bee77f2e58a7b6582e3fc1fe358cc42644",
+  "publishConfig": {
+    "access": "public"
+  }
 }
